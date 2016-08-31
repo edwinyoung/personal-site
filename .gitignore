@@ -6,3 +6,6 @@
 *.pyo
 manage.py
 */settings/production.py
+*.sqlite3
+venv
+venv/*
